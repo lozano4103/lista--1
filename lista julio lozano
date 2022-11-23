@@ -13,7 +13,7 @@ https://stream-03.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPSuYHif80MB56IVz0
 #EXTINF:-1,CANAL 5
 https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfGZsK-GaFSjC2cjGLSEprYezeNign9c0t0TBGsToREY0)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
 
-#EXTINF:-1,CANAL 11
+#EXTINF:-1, CANAL 11
 https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png
 
 #EXTINF:-1, TDTV+
@@ -31,7 +31,7 @@ https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1152108308.m3u8
 #EXTINF:-1,Canal Alsacias Tv
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,VTV
+#EXTINF:-1, VTV
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 
 #EXTINF:-1, AZTECA HONDURAS
@@ -49,6 +49,47 @@ https://stmv1.zcastbr.com/teleprogreso/teleprogreso/chunklist_w1175633885.m3u8
 #EXTINF:-1,CHOLUTECA TV
 https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Warner Channel
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD-mp4a_144800_eng=20001-init.mp4
+
+#EXTINF:-1,HBO 2
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD-mp4a_144800_eng=20001-init.mp4
+
+#EXTINF:-1,fOX
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD-mp4a_193200_eng=20001-scale=48000-init.mp4
+
+#EXTINF:-1,Discovery Home & Health
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD-mp4a_145200_eng=20003-scale=48000-init.mp4
+
+#EXTINF:-1,Animal Planet
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet-mp4a_144800_eng=20001-init.mp4
+
+#EXTINF:-1,Cinecanal
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD-mp4a_144800_eng=20000-scale=48000-init.mp4
+
+#EXTINF:-1, HBO FAMILY
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family-mp4a_144800_eng=20000-scale=48000-init.mp4
+
+#EXTINF:-1,Paramount Channel
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount-mp4a_144800_eng=20002-init.mp4
+
+#EXTINF:-1,Studio Universal
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal-mp4a_144800_eng=20001-scale=48000-init.mp4
+
+#EXTINF:-1,TNT
+https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg-mp4a_144800_eng=20000-scale=48000-init.mp4
+
+#EXTINF:-1,Universal Channel
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD-mp4a_144800_eng=20001-init.mp4
+
+#EXTINF:-1, Azteca Siete
+https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/dash/AZTECA7HD-audio_147682_spa=147200.dash?bpkout=default
+
+#EXTINF:-1,Pasiones
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones-mp4a_144800_spa=20000-init.mp4
+
+#EXTINF:-1,Fox Sports Premium
+https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-mp4a_145200_eng=20001-init.mp4
 
 
 
