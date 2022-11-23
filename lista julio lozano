@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-logo = "https://play-lh.googleusercontent.com/vYh1lTeoBrMTYHjQibPz75YJZVYd524FOYsD8uAI8NujUHa7_nyTVMuVfrtyhzm8nx4", HONDURAS: HCH
+#EXTINF:-1, tvg-chno="1" tvg-"https://play-lh.googleusercontent.com/vYh1lTeoBrMTYHjQibPz75YJZVYd524FOYsD8uAI8NujUHa7_nyTVMuVfrtyhzm8nx4", HCH
 https://stream-11.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpoalye3zu_GL8wvJ7e8M9TIgtJt3bmM_ZWIHZuGslDai)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,Telecadena
