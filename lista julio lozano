@@ -1,17 +1,14 @@
-#EXTM3U
-
-
 #EXTINF:-1, HCH
-https://stream-11.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpoalye3zu_GL8wvJ7e8M9TIgtJt3bmM_ZWIHZuGslDai)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
+https://stream-08.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpjVzZuIrb6_5lxB2byMGsY7md2PVV05b1hLi7j8ErN5f)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,Telecadena
-https://stream-03.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfGZsK-GaFSjC2cjGLSEprYezeNign9c0t0TBGsToREY0)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
+https://stream-05.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRM0V8fqAn7fYm_xFCc8XKS7QAXyC4beIfPVy1JlS0QzB)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,TSi
 https://stream-03.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPSuYHif80MB56IVz0_5FmiCwZUKdVbbwS612Rww1H2A)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,CANAL 5
-https://stream-02.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfGZsK-GaFSjC2cjGLSEprYezeNign9c0t0TBGsToREY0)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
+https://stream-08.dc3.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfNtBV_qBysI-gV5F_Xkl5Qa51GggjXVh1gwbIh_RuLgu)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1, CANAL 11
 https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png
@@ -34,9 +31,6 @@ https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, VTV
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 
-#EXTINF:-1, AZTECA HONDURAS
-https://us-b4-p-e-qg12.cdn.mdstrm.com/video/h/5fea09a071a9945deebf5f7c/63765c684c94f808516798f6_63765c684c94f80851679901.mp4/index-v1-a1.m3u8?cP=1549000&pid=H3W5JuF2hJepm0R2xYQ2GFNuhWZYiyi0&sid=IAE6K4KfnfCeILefIBu1q4y98Xqvrxvv&uid=4JzvTqgd8lU08X0HsFqRkDv9TPp43cHk&aid=5fea09a071a9945deebf5f7c&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=zGgEPp4yRrz8VuAquX8qdgtqyKi4RPbgrshnvsKno7fme8ikrabjyP9xifAmou3txJveIZiHa7A&es=us-b4-p-e-qg12.cdn.mdstrm.com&proto=https&ote=1669267795376&ot=mqSU93zRV3yDt-xS3G-uaA
-
 #EXTINF:-1,CHOLUSATSUR
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w980303113.m3u8
 
@@ -49,11 +43,11 @@ https://stmv1.zcastbr.com/teleprogreso/teleprogreso/chunklist_w1175633885.m3u8
 #EXTINF:-1,CHOLUTECA TV
 https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, History Channel
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Co4F8QMMAWOTsUzvhZRsIWRU5-9uKsQ0KAmzT5010cvnjkK9jyz0MiB8Aaat54lt0W3ouDFaaoVmgN2f4WYTZjDavUWLi_HOE8bGhOhFGb0P68cOULPMOJRwiX_H7OGR3bBGeTduVmsdbZHM4mWue1N3WbzvUFCOHUulSHfCZf3KSkbZVOmW6yNZZPJz3WwlwnXWXndXJsFO2LHCtTu1rj5ZN03cF0JN7UfjXy3kogZEhE7OGA0M5EO2nICZYYEXesTFTYFXdIcHbMHannfu22_jqrzfzbmBErEmiEvPAyLMUDi8MFvygspCzOHQgvGR8qp2_dBE7HQasEalV-Art8tUcdhPmx5B745_jT7rJGkUCbgTKdV4mkwzJd51LK_bYmjYjzs6KlUo1XR0MtJUzKxbtCohdcOFyy8aTMUgvqwQ5nF3-RwTHtrVtI3x_pWP7t2Zkyj7LCDmqGO7AZ-QckLIHBHtXR4_nMAYggSFjnfrfI_E0KxcsQ7eapwZ4JEr6dcfj7hh-gLi1_JWmb_ur2_dMA3uAHh0Avd9_IBimNA-MykjwT2jOnGEXApPJTTLc4-mOMzdA3VYxjRcyGuK21-hRySaks3-pOipL3fTr1WZprOeBqdPY6YjXIX6Zm3APhoZHs-6_iJJ095-cSpH9ZLiOa2RblgZ8U2MfD2ANCnjQes5fHscCI9-YkyCqpU4WceOKBYiLcaYeqFYSkN-tLh0ZO1WdOg4mf1xOytAHvG8hBTZ7ne6aEYzJwFaCaVKWYTcXU7K7iC2OBHIzDHUHaKu6Ar6Mq4u-4hXUMlQHw_EpnmM2uCXBw2s0Chjqid7R2MLCDUTcbDmnYFuKAhtqZ7skLuBoRPOez6LjfT9nFWBGgx_e76FDS1ismYPXEEgASoJZXUtd2VzdC0yMJwF.m3u8
+#EXTINF:-1, TELEMUNDO
+https://1217-vos.dtvott.com/DASH/stream_06/Segment-3703320963861600.m4v
 
-#EXTINF:-1,HBO
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CooFbNLjj9kuV5MSPYQcIoUz6KCGGYxv5GM02ispxmXlzIdssDMLwRnX1b0YsPCVmsEfDvDikT8vkhmW2zTkwCAl5-cWj6onFi0lAPI1l8uSBkCO39C7hQzbFxRxS7Jh47-sHJlz487RlD7MC_q8HWeqmNnoc28ALXYVe6WCk8jH9eSYr2cdB2AbO06W2MgX6TT5Gq7Hb8-HWHPJx57FIFx9xkvYQrbwM3mbU52yKWCymAub_seZiUWUhslU26Nsu4o5vfIL9pmOz4dGmtGZcxXEc1Y0hD0u4FWjhg-Mt7JxVRolAheWl7W-cNs-qaaHpvesE-qCifX3HOW0EbfW1b8T9Mr8E9B77_fyDBjvcu6lnzOEO3LFFdKWrX9VqpU2UmFShZ-fWCtg6VYLQBYuHUkLZB-3yeggMgzYYcnSamhRIu25QrPTnslowNrBGODFF8qsECD2dFqlmUxpJTRgvPd1mZniX4uTRjWGBexd5dYqyfIM-JAJK95tJ3fSXUJX361b5VQVqwdKaXoD43fKf2ANxsUtD58WkCbvlVVJbJIi5NdpAbFKwCDxib0W4SmadhVQIbG5XrwMiSOJjsTMJge5jLIJPk461MmRo4oSCNF9_SGNHnFzuoDZI6wIr_UUwMzlGa5fqST2ljhoymHNsskLVlpsswcSf0De81tv7QwY7MRAzA9gGZVReRWx01mQYYY3taLS8zNhyHOly2YBJIpaESPO3If_stmbJcyoD69_JflyUeZ0si2ZOrjrHHYNLzwx5urYkxjrTS9uEeKYHk7A7IJJfwZk2oPwHuO_2bfA-QUjnLLk1C6WREElfCJMOsWfYuLTqVWS4xmwahmCqlLLBCGrUhnFbYzuJbAaDJmKWd--T0o6Gl4ZiCABKglldS13ZXN0LTIwnAU.m3u8
+#EXTINF:-1,azteca 7
+https://megatelevisionhd.com/embed/repro/?r=Ly9tZWdhdGVsZXZpc2lvbmhkLmNvbS9lbWJlZC8/dXJsPUx5OXNhWFpsTkMxdmRIUXVhWHA2YVdkdkxuUjJMMjkxZEM5MUwyUmhjMmd2UVZwVVJVTkJMVGN0U0VRdlpHVm1ZWFZzZEM1dGNHUT0ma2lkPVkyVTRaamcyWkRKbU1HUXhOak00TlRjME1qTTNZV1JoT0dGak1tVTRNbUU9Jms9TmpReU56Y3laV0ptTVRnek1tWXhaakptWVRVNFkySTNaVGhtWTJaa01EVT0mbGFuZz0w
 
 #EXTINF:-1,fOX
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpEFk43N3ezZannAVzv4eBikQTdl1HlDjd2X29d8W-iVtGa74RpMH-RLkuYA1LvisSc3vlch9cRSLo15YGEHbrS5FLm_8-T9QVTTLTra-FTJQWclycXH_Koao9YKqm_jSaW1WX7ZYXAqYSd39Sil3sX2MReyMK-Wjd7GLX87YpIOkH0bdxF8O2g238_hT8zyNUUiOxC_BXpzzW03CKqIZyObgkRw_g_PTbu-SdxxnU1DaBedMnnKYZFOzu5V41_Nm8_j593DZQRIkkxKVL2YyK3r289UdPMs-sxXUaZl_K7ZFxl-uRAxxD8fho-EE726bkJ7eCzVkC3Vd6HA2kBSiVvqqC6a00x0ENpccmXiBPjg11iXQSCFEvTOJLtB9a-mTzwkdvlWGRshrVLJgeMXz64cMY8QKeCN6JQu1K0slCiFekxg5cQbMG6yOBDmbI3Y6g_mYli3EUxNPMOZmvR2wa78i_SjT1R7tUGqeUa7SMWDMbW2Mgu-sz7LjiSU4YQ7HDX9tkhjTNVlFoJMc3Ts3_qsL6V6g5ZWwKmc27R7vUTfaAEHBwWt3yEzGcr61E_VjN44AsOGUDtTxz5D6UYWeLVEKeqyvHt6_CyAfXAp0NJryCfp5ppgKWdE4BQHBJiyClOUeaF7ycnu3UaosVO2yEYSEci0VoRQY8849Jaq5kfriJGo_E6v6-L-KgVRnmvXTEddMJSRKQdCg59sOwoVYaBfEtd9H00nVEZMG_sg3GwszfkxyZ_c-9T51RXy0lqx_zxVpI_gpiLnOLHBJH9cmfz6zl3NdcSJPwbgm-oE6kPf6Ka_g35GkJgEPcNsNgys0s6YU5fN83G7mD6Yo9dN7WfT6yLt8mwKAQ9B1Q7lsthW8ByKGgwZH8AVpixlru2AN7EgASoJZXUtd2VzdC0yMJwF.m3u8
@@ -90,7 +84,3 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasione
 
 #EXTINF:-1,Fox Sports Premium
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-mp4a_145200_eng=20001-init.mp4
-
-
-
-
