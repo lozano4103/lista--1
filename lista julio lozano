@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1,Honduras | hch
-https://stream-01.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpvZUhdSUZwbE9Vi1JfxRmtaidyxNulIm4LPQLyE8bDJE)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
+https://stream-12.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpuWADQMVfN1uXK7egWd5P3vTrvBMNkLV6xBsbcCcHoLf)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,Honduras | telecadenas
 https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6287fda8ea3b8b397d1ca2ed/publish/media_2500.m3u8?aid=6287e30daf2b5f36b3fd330a&uid=dVTcuQUGfNJXjHVtGgPbE5JQgajssVXN&sid=lhvKJW4z7y29yrGgELJV4mtWNntuiDwV&pid=OUvH8Pv3rqe5bhjNS49zoramDNDRxznX&ref=https%3A%2F%2Fwww.deportestvc.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=bQVH1urFwjbe7k3XdgHELCXgJmzMB0OXbvN9iEMKlnD9BGZpwUR6d8GpxInOULCrdkqtAxlm2yO&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1669750116885&ot=tQmhdZpLT08US9W3CeqcvQ&proto=https&pz=us
 
 #EXTINF:-1,Honduras | TSi
-https://stream-08.ix7.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRNULATd1nYk1NqjjK_2gDe1gaODGHJ64hNHLMdwjfpAC)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
+https://stream-02.ix7.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRJtqRn9wfAIvpr_N0IEqCFow3WwTnsw0iNO42PGUxkkI)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1,Honduras | CANAL 5
-https://stream-11.ix7.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfN5mRTmlmgqTeDZtneRWXGgoA6E5BUrQ4lLApVDN4G-Y)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
+https://stream-11.dc3.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfBGkqed2PPQcajkfpQjA9rg8S-3izRkyhQJm_-PuLpor)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
 
 #EXTINF:-1, Honduras | CANAL 11
-https://canal11.hn/wp-content/themes/streamit/assets/images/logo.png
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=YO515dGDwFLBilBhwxutHd0dbKXrsJO0&sid=HOJmXCtZoGeS3Gawenq3D7Kdpi8itpdY&pid=nQZ8gofpYtt1DaPITZCbl2rPThPhSEH3&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1670002421352&ot=TVju2gZPXE0xQSzRAj710g&proto=https&pz=us
 
 #EXTINF:-1, Honduras | TDTV+
 https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w412827062_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMiA1OjE5OjA0IEFNJmhhc2hfdmFsdWU9cUNJMFA1d2xjMSs4TkNsRDJuZ1Jzdz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3D
@@ -43,5 +43,5 @@ https://media.streambrothers.com:1936/8054/8054/chunklist_w1833608067.m3u8
 https://stmv1.zcastbr.com/teleprogreso/teleprogreso/chunklist_w1175633885.m3u8
 
 #EXTINF:-1,DEPORTES | ESPN
-https://dtvott-abc.akamaized.net/dash_live_1104/dash/1104_ESPN_ARGENTINA_HD-video=3838800.dash
+https://dtvott-abc.akamaized.net/dash_live_1104/dash/1104_ESPN_ARGENTINA_HD-audio_72882_spa=72400.dash
 
