@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1,Honduras | hch
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | hch
 https://stream-07.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSptrf24Do0w_snkpQQpuWm1prHuqn6pMyIDR3wPCLpQsJ)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
 
-#EXTINF:-1,Honduras | telecadenas
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | telecadenas
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-secure/6287fda8ea3b8b397d1ca2ed/publish/media_2500.m3u8?aid=6287e30daf2b5f36b3fd330a&uid=FDrQSAk2qEboOJAD6BFqF19M1aucTtOG&sid=3SsbARXTFEhraBwpqKbyGgsYcnKk8VtQ&pid=mqepn24d0R3IKxlfnRzSiw6gl8FQ8lRE&ref=https%3A%2F%2Fwww.deportestvc.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=sBMnZToSeGIiW7ArhBpvCqSTkhjx1Vf9iN3Pjgixa0VkBrMsKndxERktt6ZO8O1GA5EQEehKaCo&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1670169555340&ot=xOMfdNrirGvw9JNP58cFOg&proto=https&pz=us
 
-#EXTINF:-1,Honduras | TSi
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | TSi
 https://stream-12.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRHcGisEawo4AA0w8blDGuNvi8yng8qr0lGtgQ_7aY4NK)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
 
-#EXTINF:-1,Honduras | CANAL 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | CANAL 5
 https://stream-03.dc3.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfOlxg-AwIYDF2QUxrAUhmBvo0Ln24rXrXBOckqXvSGOV)/dm/3/x8cly8x/s/live-3.m3u8#cell=lcore
 
-#EXTINF:-1, Honduras | CANAL 11
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | CANAL 11
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_2500.m3u8?aid=60356e540f843032743f6852&uid=YO515dGDwFLBilBhwxutHd0dbKXrsJO0&sid=HOJmXCtZoGeS3Gawenq3D7Kdpi8itpdY&pid=nQZ8gofpYtt1DaPITZCbl2rPThPhSEH3&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1670002421352&ot=TVju2gZPXE0xQSzRAj710g&proto=https&pz=us
 
-#EXTINF:-1, Honduras | TDTV+
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | TDTV+
 https://5ca39be538307.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w412827062_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMiA1OjE5OjA0IEFNJmhhc2hfdmFsdWU9cUNJMFA1d2xjMSs4TkNsRDJuZ1Jzdz09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3D
 
-#EXTINF:-1, Honduras | CANAL 6
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | CANAL 6
 https://inliveserver.com:1936/17506/17506/chunklist_w659548138.m3u8
 
-#EXTINF:-1, Honduras | LA METRO TV
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | LA METRO TV
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Honduras | SI TV
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | SI TV
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1152108308.m3u8
 
-#EXTINF:-1,Honduras | Canal Alsacias Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | Canal Alsacias Tv
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Honduras | VTV
+#EXTINF:0 tvg-id="ext" group-title="Channels", Honduras | VTV
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 
-#EXTINF:-1,Honduras | CHOLUSATSUR
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | CHOLUSATSUR
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w980303113.m3u8
 
-#EXTINF:-1,Honduras | CHTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Honduras | CHTV
 https://media.streambrothers.com:1936/8054/8054/chunklist_w1833608067.m3u8
 
-#EXTINF:-1,Honduras | TELEPROGRESO
+#EXTINF:0 tvg-id="ext" group-title="Channels" ,Honduras | TELEPROGRESO
 https://stmv1.zcastbr.com/teleprogreso/teleprogreso/chunklist_w1175633885.m3u8
 
-#EXTINF:-1,DEPORTES | ESPN
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEPORTES | ESPN
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",RETRO MUCIC TV
@@ -54,21 +54,21 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1,ARGENTINA:Canal 26 | HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARGENTINA:Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,DW
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
 
-#EXTINF:-1,AR:LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR:LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 
-#EXTINF:-1,PortalFoxMix Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,HONDURAS:TEN Honduras | HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HONDURAS:TEN Honduras | HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
-#EXTINF:-1,MUSICA:Teleritmo
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSICA:Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 
