@@ -72,3 +72,210 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Channels",MUSICA:Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MUSICA:PortalFoxMix Tv www.achoapps.com
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MUSICA:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MUSICA:Music Top Argentina www.achoapps.com
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MUSICA:Retro Tv www.achoapps.com
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CANAL 10 CHETUMAL www.achoapps.com
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Multimedios Monterrey www.achoapps.com
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",PIGUINO TV HD www.achoapps.com
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",EL GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",EXTREMA TV www.achoapps.com
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",TELE RITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",RETRO MUCIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ARGENTINA:Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ARGENTINA:Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ARGENTINA:Litus Tv
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MEXICO:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",TELERITMO www.achoapps.com
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CANAL 4
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ATVHD
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ESTRENOS:LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ESTRENOS:THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",ESTRENOS:Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CHUCKY 1
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CHUCKY 2
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CHUCKY 3
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",La Fuerza De La Ilusion www.achoapps.com
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Cuando nos Conocimos www.achoapps.com
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",0182268_AL_.jpg" Nosotros Los Nobles | SRREGIO.NET
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",The Cloverfield Paradox
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Terminus
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Deadpool
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",JIGSAW VIII | SRREGIO.NET
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Redada Asesina | SRREGIO.NET
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",LA MINA (2017)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Sandy Wexler HD www.achoapps.com(2017) (Dual Audio)
+https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Nubile2
+http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Nubile3
+http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Nubile5
+http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Music Top www.achoapps.com
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",TEN HD www.achoapps.com
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Canal 4 | SD www.achoapps.com
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MULTIVICION
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Canal 9 Salta www.achoapps.com
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",  ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",  VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+
+#EXTINF:0 tvg-id="ext" group-title="Channels", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+
