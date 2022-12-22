@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Honduras | hch
-https://stream-06.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpov6R0XFyj_po6ifpQBC32MZomHINIS6tyjAxA5pZxF5)/dm/3/x81za5c/s/live-3.m3u8#cell=lcore
+https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=sPYEK-W2Hf_wChBMD8UlVD18bTfdCcT6qj8yElcuP1wjk5rL69V3WDo_vioIGo6cmPzp1HUOSLSLdWHkdhEYmg&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
 
 #EXTINF:-1 ,Honduras | TSi
 https://stream-11.dc3.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRFszOMQnlNflEg-vSXKuqfHjpxHnRtabxvcmPVuV37dh)/dm/3/x88jdft/s/live-3.m3u8#cell=lcore
