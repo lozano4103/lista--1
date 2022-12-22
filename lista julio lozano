@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1,Honduras | hch
-https://www.dailymotion.com/cdn/live/video/x81za5c.m3u8?sec=sPYEK-W2Hf_wChBMD8UlVD18bTfdCcT6qj8yElcuP1wjk5rL69V3WDo_vioIGo6cmPzp1HUOSLSLdWHkdhEYmg&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
+https://stream-01.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpp7k8rLsjQEC8obxq6E6M0PElJg9SbTEmcOwofUce71g)/dm/3/x81za5c/s/live-1.m3u8#cell=lcore
 
 #EXTINF:-1 ,Honduras | TSi
-https://www.dailymotion.com/cdn/live/video/x88jdft.m3u8?sec=WL3VJ6bkLpZM573NEvCQn6M_mKYcnhRHhf2xYwaqOMZWOddwjSiFpaCDpzEQfyawxi6Grd3OLvnfC1waCBZ2mw&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
+https://www.dailymotion.com/cdn/live/video/x88jdft.m3u8?sec=WL3VJ6bkLpZM573NEvCQn6IMWeu2NX35fHs5frMbEz7tiRt-2_3qpGbTZ2ImYVf1fcP4CDkaER2iW9y2Yl0ZVg&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
 
 #EXTINF:-1 ,Honduras | CANAL 5
-https://www.dailymotion.com/cdn/live/video/x8cly8x.m3u8?sec=LB_NqDeHPtUiH3kDLBytC6X34tNV5CQtvAVtbK4ukqlpHrtX5blBD-cocYcrUPLY3oc4F31E_Chvr6eC-Yl_7A&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
+https://www.dailymotion.com/cdn/live/video/x8cly8x.m3u8?sec=LB_NqDeHPtUiH3kDLBytC0OpKMvLAvg_wfjHsIAb0SgJSZ0N9KJFrj9FujrE9Ig0edTLipkesZjQQFqCcc7FVQ&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
 
 #EXTINF:-1 ,Honduras | Telecadenas 7/4
-https://www.dailymotion.com/cdn/live/video/x88jf6e.m3u8?sec=zShXfmGoIzq_69v9zq_2jecGheWsgB5zreKUsYU3iOkC_h_uwGafv06vdLgNiI5K8c8pvGZCkDf0_C02rjeRQg&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
+https://www.dailymotion.com/cdn/live/video/x88jf6e.m3u8?sec=zShXfmGoIzq_69v9zq_2jaio5b89JWK_iPd3gq4bBQjh32e40suquMHB6rJK0isDv93ZgtGIK3j1zMoWtwlLNQ&dmTs=864930&dmV1st=4E774C0140ACFCD346D10AD70EC9DEF7
 
 #EXTINF:-1 ", Honduras | CANAL 11
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8?uid=ntFRjH2IfMIqf646GGF50CAdGvctZwUr&sid=63CX0O0Y5Fqv8BvyMdZkcFFH7OWScysP&pid=3jIVAhoadKJS1e67AQNEAQsssnMG4MEH&an=screen&at=web-app&av=v5.2.296&ref=https%3A%2F%2Fcanal11.hn%2F&res=854x480&without_cookies=false&listenerid=&dnt=true
@@ -65,6 +65,12 @@ https://usher.ttvnw.net/api/channel/hls/dor141xc.m3u8?acmb=e30%3D&allow_source=t
 
 #EXTINF:-1 ,cinemax
 https://usher.ttvnw.net/api/channel/hls/cc_x125x.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9915854&play_session_id=b210cfe54ffdceabc21e03f8025ccdfb&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a10f0d954e812ba88d27517969038b68da2d0bfc&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cc_x125x%22%2C%22channel_id%22%3A844606649%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22141afce18f335c4e%22%2C%22expires%22%3A1671724605%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.245.57.130%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.16.0
+
+#EXTINF:-1 ,star channel
+https://usher.ttvnw.net/api/channel/hls/100ty05kk.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5491737&play_session_id=d046cb28d2e6107906e6b88b64c15037&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=923b1bbb0289b746f7b1edd11ddc7055a388af46&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22100ty05kk%22%2C%22channel_id%22%3A833844892%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22141afce18f335c4e%22%2C%22expires%22%3A1671724869%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.245.57.130%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.16.0
+
+#EXTINF:-1 ,TNT
+https://usher.ttvnw.net/api/channel/hls/knt_17kll.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5687480&play_session_id=3d1dcd763ba44f6491060a3ed6dfd88b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5805c5907d50fddcff81125417de2ff95e13c1ed&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22knt_17kll%22%2C%22channel_id%22%3A841260164%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22141afce18f335c4e%22%2C%22expires%22%3A1671724993%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.245.57.130%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.16.0
 
 #EXTINF:-1 ,Canal 10 Chetumal
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
